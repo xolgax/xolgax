@@ -16,10 +16,10 @@ I have multiple industry certifications:
 I am learning as much as I can about DevOps, AWS, and Azure. Outside of information technology, I play ice hockey, do Brazillian Jiu-Jitsu, and play chess.
 
 ## 🌱 I'm currently learning ...
-Ansible, Puppet, Terraform, CloudFormation, Python, C#, Javascript, PowerCLI, AWS, and Azure.
+Go, Ansible, Puppet, Terraform, CloudFormation, Python, C#, Javascript, PowerCLI, AWS, and Azure.
 
 ## 💞️ I'm looking to collaborate on ...
-Anything that will help me learn coding better in Python, C#, Java, or Javascript. 
+Anything that will help me learn coding better in Go, Python, C#, Java, or Javascript. 
 
 ## 📫 How to reach me ...
 - @pkraus0 on twitter,
